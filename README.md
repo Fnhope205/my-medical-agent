@@ -51,5 +51,3 @@ This project is for educational purposes only. It does not replace professional 
  Author
 
  Created as a personal AI automation project using n8n.
-
-Created as a personal AI automation project using n8n.
